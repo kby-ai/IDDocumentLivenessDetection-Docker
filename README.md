@@ -16,7 +16,7 @@
 ## Try the API
 ### Online Demo
   You can test the SDK using images from the following URL:
-  `https://web.kby-ai.com`
+  [https://web.kby-ai.com](https://web.kby-ai.com)
   
   ![image](https://github.com/user-attachments/assets/33a18565-4173-4f25-8216-2365fe82be6e)
 
